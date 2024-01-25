@@ -1,0 +1,71 @@
+h1 {
+    font-family: 'Copperplate', fantasy;
+    font-size: 90px;
+    color: rgb(154, 186, 154);
+    background-color: pink;
+    text-align: center;
+    margin: auto
+}
+
+h2 {
+    font-family: 'Copperplate', fantasy;
+    font-size: 40px;
+    color: rgb(154, 186, 154);
+    background-color: pink;
+    text-align: center;
+    margin: auto
+}
+
+body {
+    background-color: rgb(249, 218, 223);
+}
+
+h3 {
+    font-size: 40px;
+    color: rgb(154, 186, 154);
+    background-color: rgb(249, 218, 223);
+    text-align: center;
+    margin: auto
+}
+
+p {
+    text-align: center;
+    color: rgb(154, 186, 154);
+    background-color: rgb(249, 218, 223);
+    font-size: 20px;
+}
+
+img {
+    margin: auto;
+    display: block;
+    size: 20px
+}
+
+.img {
+    display: block;
+    height: 50px;
+    size: 20px
+}
+
+p a {
+    text-decoration: none;
+    color: black;
+}
+
+.ScienceFair {
+    border: 4px rgb(154, 186, 154) solid;
+    background-color: rgb(249, 218, 223);
+    height: 540px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-decoration: none;
+}
+
+.Images {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}

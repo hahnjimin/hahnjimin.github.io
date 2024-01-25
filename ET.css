@@ -1,65 +1,85 @@
-h1{
+h1 {
     font-family: 'Copperplate', fantasy;
     font-size: 90px;
     color: rgb(154, 186, 154);
     background-color: pink;
     text-align: center;
-    margin:auto
+    margin: auto
 }
-h2{
+
+h2 {
     font-family: 'Copperplate', fantasy;
     font-size: 40px;
     color: rgb(154, 186, 154);
     background-color: pink;
     text-align: center;
-    margin:auto
+    margin: auto
 }
-body{background-color: rgb(249, 218, 223);}
-h3{
+
+body {
+    background-color: rgb(249, 218, 223);
+}
+
+h3 {
     font-size: 40px;
     color: rgb(154, 186, 154);
     background-color: rgb(249, 218, 223);
     text-align: center;
-    margin:auto
+    margin: auto
 }
-p{
-    text-align:center; 
-    color: rgb(154, 186, 154) ; 
+
+p {
+    text-align: center;
+    color: rgb(154, 186, 154);
     background-color: rgb(249, 218, 223);
     font-size: 20px;
 }
-img { 
+
+img {
     margin: auto;
     display: block;
 }
-.pfp{
-    border-color:rgb(154, 186, 154); border-style:solid;
-}
-.img {
-    display: block;
-    height: 50px;
+
+.pfp {
+    border-color: rgb(154, 186, 154);
+    border-style: solid;
 }
 
-a{
+a {
     display: block;
 }
-.EiffelTower{
+
+.EiffelTower {
     border: 4px rgb(154, 186, 154) solid;
     background-color: rgb(249, 218, 223);
-    height: 400;
+    height: 420;
     width: 50%;
     display: inline-block;
 }
-.AIStory{
+
+.AIStory {
     border: 4px rgb(154, 186, 154) solid;
     background-color: rgb(249, 218, 223);
-    height: 400;
+    height: 420;
     width: 50%;
     display: inline-block;
-    p a{text-decoration: none; color:black;}
+
+    p a {
+        text-decoration: none;
+        color: black;
+    }
 }
-p a{text-decoration: none; color:black;}
-.etprojects{
-    display:flex;
-    p a{text-decoration: none; color:black;}
+
+p a {
+    text-decoration: none;
+    color: black;
+}
+
+.etprojects {
+    display: flex;
+
+    p a {
+        text-decoration: none;
+        color: black;
+    }
 }

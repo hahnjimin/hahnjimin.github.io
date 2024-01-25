@@ -1,8 +1,8 @@
 h1 {
     font-family: 'Copperplate', fantasy;
     font-size: 90px;
-    color:rgb(154, 186, 154);
-    background-color:pink;
+    color: rgb(154, 186, 154);
+    background-color: pink;
     text-align: center;
     margin: auto
 }
@@ -10,8 +10,8 @@ h1 {
 h2 {
     font-family: 'Copperplate', fantasy;
     font-size: 40px;
-    color:rgb(154, 186, 154);
-    background-color:pink;
+    color: rgb(154, 186, 154);
+    background-color: pink;
     text-align: center;
     margin: auto
 }
@@ -19,8 +19,8 @@ h2 {
 h3 {
     font-size: 40px;
     color: rgb(154, 186, 154);
-    background-color:pink;
-    text-align: center;    
+    background-color: pink;
+    text-align: center;
 }
 
 body {
@@ -73,15 +73,23 @@ p {
 .img {
     display: block;
     height: 50px;
-    border-color:pink; border-style:dashed;
+    border-color: pink;
+    border-style: dashed;
 }
-.homepage{
+
+.homepage {
     margin: auto;
     display: block;
-    border-color:rgb(154, 186, 154); border-style:solid;
+    border-color: rgb(154, 186, 154);
+    border-style: solid;
     text-decoration: none;
 }
-a{
+
+a {
     display: block;
 }
-p a{text-decoration: none; color:black;}
+
+p a {
+    text-decoration: none;
+    color: black;
+}
