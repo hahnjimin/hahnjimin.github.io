@@ -1,7 +1,7 @@
 h1 {
     font-family: 'Copperplate', fantasy;
     font-size: 90px;
-    color: rgb(154, 186, 154);
+    color: rgb(154, 186, 154) ;
     background-color: pink;
     text-align: center;
     margin: auto
@@ -10,7 +10,7 @@ h1 {
 h2 {
     font-family: 'Copperplate', fantasy;
     font-size: 40px;
-    color: rgb(154, 186, 154);
+    color: rgb(154, 186, 154) ;
     background-color: pink;
     text-align: center;
     margin: auto
@@ -68,7 +68,7 @@ p {
 .Square1 {
     border: 4px rgb(154, 186, 154) solid;
     background-color: rgb(249, 218, 223);
-    height: 300;
+    height: 100;
     width: 100%;
     display: inline-block;
 }
@@ -76,7 +76,7 @@ p {
 .Square2 {
     border: 4px rgb(154, 186, 154) solid;
     background-color: rgb(249, 218, 223);
-    height: 500px;
+    height: 300px;
     width: 460px;
     display: inline-block;
 }
@@ -84,7 +84,7 @@ p {
 .Square3 {
     border: 4px rgb(154, 186, 154) solid;
     background-color: rgb(249, 218, 223);
-    height: 500px;
+    height: 300px;
     width: 460px;
     display: inline-block;
 }
@@ -92,12 +92,19 @@ p {
 .Square4 {
     border: 4px rgb(154, 186, 154) solid;
     background-color: rgb(249, 218, 223);
-    height: 500px;
+    height: 300px;
     width: 470px;
     display: inline-block;
     margin: auto
 }
-
+.Square5 {
+    border: 4px rgb(154, 186, 154) solid;
+    background-color: rgb(249, 218, 223);
+    height: 300px;
+    width: 470px;
+    display: inline-block;
+    margin: auto
+}
 .img {
     display: block;
     height: 50px;
