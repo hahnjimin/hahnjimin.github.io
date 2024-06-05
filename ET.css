@@ -1,7 +1,7 @@
 h1 {
     font-family: 'Copperplate', fantasy;
     font-size: 90px;
-    color: rgb(154, 186, 154);
+    color: rgb(154, 186, 154);; 
     background-color: pink;
     text-align: center;
     margin: auto
@@ -10,7 +10,7 @@ h1 {
 h2 {
     font-family: 'Copperplate', fantasy;
     font-size: 40px;
-    color: rgb(154, 186, 154);
+    color: rgb(154, 186, 154); 
     background-color: pink;
     text-align: center;
     margin: auto
@@ -22,7 +22,7 @@ body {
 
 h3 {
     font-size: 40px;
-    color: rgb(154, 186, 154);
+    color: rgb(154, 186, 154); 
     background-color: rgb(249, 218, 223);
     text-align: center;
     margin: auto
@@ -30,7 +30,7 @@ h3 {
 
 p {
     text-align: center;
-    color: rgb(154, 186, 154);
+    color: rgb(154, 186, 154); 
     background-color: rgb(249, 218, 223);
     font-size: 20px;
 }
@@ -41,7 +41,7 @@ img {
 }
 
 .pfp {
-    border-color: rgb(154, 186, 154);
+    border-color: rgb(154, 186, 154); 
     border-style: solid;
 }
 
